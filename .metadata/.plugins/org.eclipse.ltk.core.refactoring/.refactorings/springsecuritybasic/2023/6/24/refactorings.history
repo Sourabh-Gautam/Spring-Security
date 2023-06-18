@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.epam.springsecuritybasic&apos; to &apos;com.epam&apos;&#x0D;&#x0A;- Original project: &apos;springsecuritybasic&apos;&#x0D;&#x0A;- Original element: &apos;springsecuritybasic/src/main/java/com.epam.springsecuritybasic&apos;&#x0D;&#x0A;- Renamed element: &apos;springsecuritybasic/src/main/java/com.epam&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.epam.springsecuritybasic&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.epam.springsecuritybasic" name="com.epam" qualified="false" references="true" stamp="1686735574162" textual="false" version="1.0"/>
+</session>

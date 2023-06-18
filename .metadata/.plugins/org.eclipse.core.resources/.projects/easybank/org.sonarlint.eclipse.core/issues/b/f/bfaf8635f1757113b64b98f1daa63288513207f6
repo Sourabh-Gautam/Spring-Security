@@ -1,0 +1,16 @@
+
+g	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HMRMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.HLRBLOCKERZ
+CODE_SMELL
+q
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ïÝý‚ùÿÿÿÿHJRMINORZ
+CODE_SMELL
+l
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Ò¢ƒ¦HKRMINORZ
+CODE_SMELL
+ê
+java:S4605"¶'NoticeController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(ïÝý‚ùÿÿÿÿHNRCRITICALZ
+CODE_SMELL

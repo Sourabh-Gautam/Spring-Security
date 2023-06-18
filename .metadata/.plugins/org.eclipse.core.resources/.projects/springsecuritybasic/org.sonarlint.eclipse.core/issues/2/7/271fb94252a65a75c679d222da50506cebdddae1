@@ -1,0 +1,19 @@
+
+ˆ
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8¼×™Ê‹1HRMINORZ
+CODE_SMELL
+q
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢FHRMAJORZ
+CODE_SMELL
+g	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HRMINORZ
+CODE_SMELL
+l
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Çµí‘HRMINORZ
+CODE_SMELL
+q
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ó‚—–ûÿÿÿÿHRMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.HRBLOCKERZ
+CODE_SMELL

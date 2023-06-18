@@ -1,0 +1,16 @@
+
+q
+java:S1106"AMove this left curly brace to the beginning of next line of code.(††ø»ÿÿÿÿÿHDRMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.HERBLOCKERZ
+CODE_SMELL
+s
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ñõÑÇ8ÇÆ¤Ó‹1HGRMINORZ
+CODE_SMELL
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8ÇÆ¤Ó‹1HHRMINORZ
+CODE_SMELL
+ò
+java:S4605"·'ContactController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(††ø»ÿÿÿÿÿ8ÇÆ¤Ó‹1HIRCRITICALZ
+CODE_SMELL

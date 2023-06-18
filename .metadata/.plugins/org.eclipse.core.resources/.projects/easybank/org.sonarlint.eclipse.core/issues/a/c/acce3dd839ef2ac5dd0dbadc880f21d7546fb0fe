@@ -1,0 +1,16 @@
+
+K
+java:S1451"&Add or update the header of this file.HARBLOCKERZ
+CODE_SMELL
+ã
+java:S4605"´'CardController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(ã£×ºHCRCRITICALZ
+CODE_SMELL
+q
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(æ¾åðþÿÿÿÿH@RMINORZ
+CODE_SMELL
+g	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HBRMINORZ
+CODE_SMELL
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ã£×ºH?RMINORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½ô®âH4RMINORZ
+CODE_SMELL
+x
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(•œ½Ùÿÿÿÿÿ8ìÌ–Ó‹1H7RMINORZ
+CODE_SMELL
+í
+java:S4605"·'BalanceController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(½ô®â8ìÌ–Ó‹1H9RCRITICALZ
+CODE_SMELL
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8ìÌ–Ó‹1H8RMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.H5RBLOCKERZ
+CODE_SMELL

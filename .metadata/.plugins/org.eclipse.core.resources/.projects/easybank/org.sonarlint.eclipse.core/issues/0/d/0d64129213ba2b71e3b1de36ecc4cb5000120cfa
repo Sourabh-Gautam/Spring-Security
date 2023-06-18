@@ -1,0 +1,35 @@
+
+m	java:S125="<This block of commented-out lines of code should be removed.(ûş•¯8¯ÜÊ×‹1HcRMAJORZ
+CODE_SMELL
+s
+java:S1106E"AMove this left curly brace to the beginning of next line of code.(öÁâ8§ÕËÓ‹1H_RMINORZ
+CODE_SMELL
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8ÌÄËÓ‹1H[RMINORZ
+CODE_SMELL
+s	java:S125N"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ÅÌ”î‹1HÀRMAJORZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(„¼È8®ê¦Ø‹1H RMINORZ
+CODE_SMELL
+m
+java:S1611%"6Remove the parentheses around the "requests" parameter( ãÑÛşÿÿÿÿ8ÌÄËÓ‹1H\RMINORZ
+CODE_SMELL
+n	java:S1251"<This block of commented-out lines of code should be removed.(ûş•¯8ı•Û×‹1HRMAJORZ
+CODE_SMELL
+s
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(Ã ù‘8§ÕËÓ‹1H`RMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.HURBLOCKERZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ûş•¯8¯ÜÊ×‹1HiRMAJORZ
+CODE_SMELL
+y
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(ñû¶Âûÿÿÿÿ8ÅÌ”î‹1H¿RMINORZ
+CODE_SMELL
+n
+java:S1874_";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö8ÅÌ”î‹1HÃRMINORZ
+CODE_SMELL
+
+java:S1192X"FDefine a constant instead of duplicating this literal "admin" 3 times.(Æ³Ò³øÿÿÿÿ8®ê¦Ø‹1HèRCRITICALZ
+CODE_SMELL

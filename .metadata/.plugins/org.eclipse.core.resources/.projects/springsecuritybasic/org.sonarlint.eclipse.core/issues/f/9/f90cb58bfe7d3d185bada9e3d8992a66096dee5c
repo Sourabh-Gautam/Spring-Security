@@ -1,0 +1,17 @@
+
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8òñê ã1H
+RMINORZ
+CODE_SMELL
+K
+java:S1451"&Add or update the header of this file.HRBLOCKERZ
+CODE_SMELL
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(æÖÿçHRMINORZ
+CODE_SMELL
+Ì
+java:S4605"∑'WelcomeController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(æÖÿç8òñê ã1HRCRITICALZ
+CODE_SMELL
+x
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(…Ö¡π¯ˇˇˇˇ8òñê ã1H	RMINORZ
+CODE_SMELL

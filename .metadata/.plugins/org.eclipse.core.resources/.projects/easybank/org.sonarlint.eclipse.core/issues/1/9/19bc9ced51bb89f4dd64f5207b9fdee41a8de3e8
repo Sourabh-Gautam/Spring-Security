@@ -1,0 +1,16 @@
+
+K
+java:S1451"&Add or update the header of this file.H/RBLOCKERZ
+CODE_SMELL
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(œëàH.RMINORZ
+CODE_SMELL
+x
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(¡ü„úùÿÿÿÿ8¬À‘Ó‹1H1RMINORZ
+CODE_SMELL
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8¬À‘Ó‹1H2RMINORZ
+CODE_SMELL
+í
+java:S4605"·'AccountController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(œëà8¬À‘Ó‹1H3RCRITICALZ
+CODE_SMELL
